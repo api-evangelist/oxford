@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developer.oxforddictionaries.com/
 common:
+  - type: DomainSecurity
+    url: security/oxford-domain-security.yml
   - type: Website
     url: https://developer.oxforddictionaries.com/
   - type: PublicAPIsListing
