@@ -39,7 +39,6 @@ apis:
   - name: Oxford
     description: "Dictionary Data"
     humanURL: https://developer.oxforddictionaries.com/
-    baseURL: https://developer.oxforddictionaries.com/
     tags:
       - Dictionaries
     properties:
